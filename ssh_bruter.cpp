@@ -101,8 +101,8 @@ int main(){
     string passwords[LIMIT]={}; //we'll add our passwords in here so we can try them one by one and we say the length of wordlist can't be longer than 20k. Otherwise script gives "zsh: segmentation fault  ./a.out" error.
     string usernames[LIMIT]={};
     string serverIP,username;
-    cout<<"~Coded by Aziz Kaplan~"<<endl;
-    cout<<"Github:AzizKpln"<<endl;
+    cout<<"~Coded by Krypton~"<<endl;
+    cout<<"Github:Krypton"<<endl;
     cout<<"~31.01.2021~"<<endl;
     cout<<"Give The Server IP Address:"<<endl<<"=>";
     cin>>serverIP;
