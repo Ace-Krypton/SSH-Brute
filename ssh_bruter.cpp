@@ -102,7 +102,7 @@ int main(){
     string usernames[LIMIT]={};
     string serverIP,username;
     cout<<"~Coded by Krypton~"<<endl;
-    cout<<"Github:Krypton"<<endl;
+    cout<<"Github: Ace-Krypton"<<endl;
     cout<<"~31.01.2021~"<<endl;
     cout<<"Give The Server IP Address:"<<endl<<"=>";
     cin>>serverIP;
